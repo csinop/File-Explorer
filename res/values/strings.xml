@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">File Explorer</string>
+    <string name="file_manager">File Manager</string>
+    <string name="new_folder">NF</string>
+    <string name="delete_folder">DF</string>
+    <string name="refresh">RF</string>
+    <string name="go_back">B</string>
+    <string name="rename">Rename</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="rename_dialog">Rename to: </string>
+</resources>
